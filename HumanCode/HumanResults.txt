@@ -1,0 +1,21 @@
+exps range from 0.59814 to 2.2106
+overall slope fit: 0.31544
+overall slope pv: 0
+overall offset fit: 0.35979
+overall offset pv: 0
+correlation between offset and slope r2: 0.93905
+correlation between offset and slope pv: 0
+partial correlation between offset and slope r2: 0.91184
+partial correlation between offset and slope pv: 0
+22.4805 % change in slope from SG to IG
+25.4091 % change in offset from SG to IG
+mean sing subj slope fit: 0.61644
+sem sing subj slope fit: 0.046326
+mean channel r2 fit: 0.92689
+sem channel r2 fit: 0.0027948
+mean sing subj offset fit: 0.64437
+sem sing subj offset fit: 0.049018
+overall slope simple fit: 0.3145
+overall slope simple pv: 0
+overall offset simple fit: 0.38088
+overall offset simple pv: 0

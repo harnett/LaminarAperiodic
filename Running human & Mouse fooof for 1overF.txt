@@ -1,0 +1,2 @@
+Mouse: run 'perps_fooof_short' in unzipped directory
+Human: run 'human_fooof_master' in unzipped directory. actual gramm stuff is thru 'gramm_stuff_master' in directory, but you should just load the exps, r2s, etc. and name them the way the file wants..
